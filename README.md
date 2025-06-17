@@ -1,2 +1,3 @@
 # Local-Recurrence-Prediction-Model
 ANN-based local recurrence prediction model for NSCLC patients treated with SBRT
+The Jupyter Notebook code titled "LR_prediction_GitHub_code.ipynb" implements a methodology for both cross-validation and external validation of an artificial neural network (ANN)-based model designed to predict recurrence in non-small cell lung cancer (NSCLC) patients treated with stereotactic body radiotherapy (SBRT). The model integrates clinical and dosiomic numerical features as predictive inputs. The code encompasses the full pipeline of model development, including training, validation, and performance evaluation.
